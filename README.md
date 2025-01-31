@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#ff69b4; font-family: 'Poppins', sans-serif;">✨ I´m Morgan ✨</h1>
+<h1 align="center" style="color:#ff69b4; font-family: 'Poppins', sans-serif;"><em>✨ I´m Morgan ✨</em></h1>
 <h3 align="center" style="color:#9370db; font-family: 'Poppins', sans-serif;">I love reading, interface design, and creating small programs in my free time. 💜</h3>
 
 ---
