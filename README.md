@@ -1,4 +1,17 @@
-<h1 align="center" style="color:#ff69b4; font-family: 'Poppins', sans-serif;"><em>✨ I´m Morgan ✨</em></h1>
+<!-- Aesthetic GitHub README -->
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Lovely+Coffee&display=swap" rel="stylesheet">
+  <style>
+    .lovely-coffee {
+      font-family: 'Lovely Coffee', cursive;
+      color: #ff69b4;
+      text-align: center;
+      font-size: 2.5em;
+    }
+  </style>
+</head>
+
+<h1 class="lovely-coffee">✨ I´m Morgan ✨</h1>
 <h3 align="center" style="color:#9370db; font-family: 'Poppins', sans-serif;">I love reading, interface design, and creating small programs in my free time. 💜</h3>
 
 ---
